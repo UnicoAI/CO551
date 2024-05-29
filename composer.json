@@ -1,0 +1,17 @@
+{
+    "name": "info/co555cw2",
+    "autoload": {
+        "psr-4": {
+            "Info\\Co555cw2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marius Daniel Boncica",
+            "email": "102974083+UnicoAI@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
